@@ -10,3 +10,15 @@ Here are some interesting problems in Computational Physics. I did them in my un
 4. Acceptance-rejection sampling method for Gaussian and Lorentz distributions. 
 
 5. Comparison between the direct sampling method and the Acceptance-rejection sampling method.
+
+6. Feigenbaum chaotic-dynamic systems.
+
+7. 2D-DLA(Diffusion-limited aggregation) model simulation(Brownian motion). 2-D self avoiding walk model.
+
+8. Generate fractal-tree using recursive method. 
+
+9. Simulation of Ising model. (Q2 regulation)
+
+10. Monte Carlo integration.
+
+11. Prove the central limit theorem(CLT) using Monte Carlo method. 
