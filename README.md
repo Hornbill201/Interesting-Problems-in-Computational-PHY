@@ -22,3 +22,21 @@ Here are some interesting problems in Computational Physics. I did them in my un
 10. Monte Carlo integration.
 
 11. Prove the central limit theorem(CLT) using Monte Carlo method. 
+
+12. Simulation of random walk under sinusoidal force field.
+
+13. Growing self-avoiding random walk (GSAW) in 2-D lattice. 
+
+14. Numerical solution of the Laplace equation under two different boundary conditions. 
+
+15. Simulation of the spreading of the Influenza A virus.
+
+16. Renormalization group in the triangular lattice.
+
+17. Simulation of the ideal gas: Heat capacity, Entropy, Thermodynamic potentials, etc. 
+
+18. 2-D Markov Chain in a energy system. 
+
+19. Concept questions about Ising model, phase space, Liouvile Theorem, Markov Chain and Canonical ensemble.
+
+20. Molecular Dynamics Engine Application.
